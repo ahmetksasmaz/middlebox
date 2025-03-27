@@ -15,7 +15,7 @@ async def run(delay_lambda = None):
         data = msg.data #.decode()
         #print(f"Received a message on '{subject}': {data}")
         packet = Ether(data)
-        # print(packet.show())
+        print(packet.show())
         # Publish the received message to outpktsec and outpktinsec
         if delay_lambda:
             # delay_lambda = X ms -> event occur every X ms -> 1e3 / X events per second
