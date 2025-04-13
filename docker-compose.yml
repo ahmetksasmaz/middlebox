@@ -55,24 +55,24 @@ services:
 
 
 
-  go-processor:
-    build: ./dockers/go-processor
-    init: true
-    container_name: go-processor
-    networks:
-      intnet:
-    command: ['/bin/bash', '/config/configure-processor.sh']
-    volumes:
-    - ./config:/config
-    - ./code/go-processor:/code/go-processor
-    environment:
-    - SECURE_NET=${SECURE_NET}
-    - SECURENET_GATEWAY=${SECURENET_GATEWAY}
-    - INSECURE_NET=${INSECURE_NET}
-    - INSECURENET_GATEWAY=${INSECURENET_GATEWAY}
-    - SECURENET_HOST_IP=${SECURENET_HOST_IP}
-    - INSECURENET_HOST_IP=${INSECURENET_HOST_IP}
-    - NATS_SURVEYOR_SERVERS=${NATS_SURVEYOR_SERVERS}
+  # go-processor:
+  #   build: ./dockers/go-processor
+  #   init: true
+  #   container_name: go-processor
+  #   networks:
+  #     intnet:
+  #   command: ['/bin/bash', '/config/configure-processor.sh']
+  #   volumes:
+  #   - ./config:/config
+  #   - ./code/go-processor:/code/go-processor
+  #   environment:
+  #   - SECURE_NET=${SECURE_NET}
+  #   - SECURENET_GATEWAY=${SECURENET_GATEWAY}
+  #   - INSECURE_NET=${INSECURE_NET}
+  #   - INSECURENET_GATEWAY=${INSECURENET_GATEWAY}
+  #   - SECURENET_HOST_IP=${SECURENET_HOST_IP}
+  #   - INSECURENET_HOST_IP=${INSECURENET_HOST_IP}
+  #   - NATS_SURVEYOR_SERVERS=${NATS_SURVEYOR_SERVERS}
 
 
   python-processor:
