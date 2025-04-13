@@ -22,7 +22,6 @@ class Receiver:
         }
         if self.file_output:
             self.sessions[source_ip]["file"] = open(self.sessions[source_ip]["filename"], "a")
-            self.sessions[source_ip]["file"].write("\n")
     
     def parse_dump_record(self, dump_record):
         # 16:04:26.864695 IP 10.1.0.21 > 10.0.0.21: ICMP echo request, id 1387, seq 4, length 64
@@ -68,8 +67,7 @@ class Receiver:
         bit = str(bit)
         self.sessions[source_ip]["bit_array"].append(bit)
         if self.file_output:
-            self.sessions[source_ip]["file"].write(str(bit))
-
+            self.sessions[source_ip]["file"].write(bit)
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Parser for tcpdump output using icmp sequence number covert channel.")
