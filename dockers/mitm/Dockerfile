@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-RUN apt update && apt install -y tshark iproute2 iptables dnsmasq jq netmask bsdmainutils conntrack iputils-ping dnsutils  net-tools  ethtool
+RUN apt update && apt install -y tshark iproute2 iptables dnsmasq jq netmask bsdmainutils conntrack iputils-ping dnsutils net-tools ethtool
 
 # Disable IP forwarding our switch code will handle it!
 RUN echo 'net.ipv4.ip_forward=0' >> /etc/sysctl.conf && sysctl -p
