@@ -1,0 +1,943 @@
+--- insec ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 605ms
+rtt min/avg/max/mdev = 6.808/7.018/7.232/0.160 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1223ms
+rtt min/avg/max/mdev = 3.168/6.561/7.973/1.966 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.604/3.604/3.604/0.000 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 403ms
+rtt min/avg/max/mdev = 3.349/4.619/5.353/0.902 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1012ms
+rtt min/avg/max/mdev = 3.449/5.699/7.465/1.370 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.372/3.372/3.372/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 813ms
+rtt min/avg/max/mdev = 5.398/6.275/7.630/0.857 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1013ms
+rtt min/avg/max/mdev = 4.413/5.935/6.967/0.915 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 3.722/5.040/6.358/1.318 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 407ms
+rtt min/avg/max/mdev = 6.180/6.626/7.073/0.446 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1219ms
+rtt min/avg/max/mdev = 3.942/6.060/7.216/1.174 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.941/3.941/3.941/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 808ms
+rtt min/avg/max/mdev = 4.313/7.160/9.415/1.856 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1012ms
+rtt min/avg/max/mdev = 6.453/7.298/8.185/0.627 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 201ms
+rtt min/avg/max/mdev = 3.797/5.239/6.681/1.442 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 403ms
+rtt min/avg/max/mdev = 7.270/7.788/8.306/0.518 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 1018ms
+rtt min/avg/max/mdev = 4.166/6.946/9.310/1.832 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 203ms
+rtt min/avg/max/mdev = 5.386/6.467/7.549/1.081 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1010ms
+rtt min/avg/max/mdev = 6.023/8.589/12.030/1.980 ms
+--- insec ping statistics ---
+6 packets transmitted, 3 received, 50% packet loss, time 1019ms
+rtt min/avg/max/mdev = 5.735/7.734/9.195/1.463 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.989/4.989/4.989/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 610ms
+rtt min/avg/max/mdev = 8.158/8.541/9.139/0.428 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 807ms
+rtt min/avg/max/mdev = 3.179/6.426/8.332/1.944 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 203ms
+rtt min/avg/max/mdev = 4.759/4.759/4.759/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 608ms
+rtt min/avg/max/mdev = 5.376/6.814/7.828/1.045 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 405ms
+rtt min/avg/max/mdev = 4.628/6.293/8.095/1.418 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 205ms
+rtt min/avg/max/mdev = 8.271/8.271/8.271/0.000 ms
+--- insec ping statistics ---
+8 packets transmitted, 5 received, 37.5% packet loss, time 1429ms
+rtt min/avg/max/mdev = 4.541/7.735/8.783/1.609 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 804ms
+rtt min/avg/max/mdev = 6.072/8.021/9.091/1.156 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.518/5.518/5.518/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 809ms
+rtt min/avg/max/mdev = 7.217/8.246/9.584/0.970 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1210ms
+rtt min/avg/max/mdev = 3.323/7.312/8.945/1.898 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 204ms
+rtt min/avg/max/mdev = 7.125/7.125/7.125/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 605ms
+rtt min/avg/max/mdev = 6.731/7.830/8.986/0.921 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1019ms
+rtt min/avg/max/mdev = 6.194/7.696/8.417/0.878 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.483/3.483/3.483/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1422ms
+rtt min/avg/max/mdev = 7.340/8.864/12.212/1.660 ms
+--- insec ping statistics ---
+9 packets transmitted, 6 received, 33.3333% packet loss, time 1629ms
+rtt min/avg/max/mdev = 4.307/8.294/10.457/2.210 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.997/5.997/5.997/0.000 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 404ms
+rtt min/avg/max/mdev = 5.719/7.315/8.273/1.136 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 409ms
+rtt min/avg/max/mdev = 5.695/7.177/8.659/1.482 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.008/5.008/5.008/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 809ms
+rtt min/avg/max/mdev = 4.918/7.607/9.884/1.794 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 817ms
+rtt min/avg/max/mdev = 6.888/7.548/8.314/0.586 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.392/5.392/5.392/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1020ms
+rtt min/avg/max/mdev = 5.545/7.106/8.181/0.985 ms
+--- insec ping statistics ---
+8 packets transmitted, 5 received, 37.5% packet loss, time 1432ms
+rtt min/avg/max/mdev = 5.320/7.081/8.867/1.146 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.184/5.184/5.184/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 606ms
+rtt min/avg/max/mdev = 5.986/6.732/7.489/0.613 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1010ms
+rtt min/avg/max/mdev = 6.510/7.074/7.706/0.416 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.457/5.457/5.457/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1010ms
+rtt min/avg/max/mdev = 5.375/6.832/7.553/0.755 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1216ms
+rtt min/avg/max/mdev = 5.858/7.098/7.606/0.645 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 201ms
+rtt min/avg/max/mdev = 5.376/6.470/7.565/1.094 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 608ms
+rtt min/avg/max/mdev = 5.851/7.285/8.817/1.212 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1007ms
+rtt min/avg/max/mdev = 5.226/7.794/8.576/1.287 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.101/5.101/5.101/0.000 ms
+--- insec ping statistics ---
+12 packets transmitted, 7 received, 41.6667% packet loss, time 2449ms
+rtt min/avg/max/mdev = 5.411/7.576/9.117/1.131 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1215ms
+rtt min/avg/max/mdev = 4.151/7.073/8.839/1.547 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.446/5.446/5.446/0.000 ms
+--- insec ping statistics ---
+9 packets transmitted, 6 received, 33.3333% packet loss, time 1620ms
+rtt min/avg/max/mdev = 5.410/15.535/54.452/17.446 ms
+--- insec ping statistics ---
+8 packets transmitted, 5 received, 37.5% packet loss, time 1430ms
+rtt min/avg/max/mdev = 5.140/8.006/9.431/1.480 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.581/5.581/5.581/0.000 ms
+--- insec ping statistics ---
+8 packets transmitted, 6 received, 25% packet loss, time 1418ms
+rtt min/avg/max/mdev = 5.511/7.063/7.852/0.801 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 1014ms
+rtt min/avg/max/mdev = 5.424/6.770/7.959/0.905 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.939/4.939/4.939/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 1027ms
+rtt min/avg/max/mdev = 7.057/9.210/11.475/1.805 ms
+--- insec ping statistics ---
+9 packets transmitted, 6 received, 33.3333% packet loss, time 1626ms
+rtt min/avg/max/mdev = 5.348/7.842/8.835/1.220 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.334/5.334/5.334/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1225ms
+rtt min/avg/max/mdev = 5.003/8.684/12.776/2.802 ms
+--- insec ping statistics ---
+11 packets transmitted, 8 received, 27.2727% packet loss, time 2238ms
+rtt min/avg/max/mdev = 6.512/7.652/8.794/0.686 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.002/5.002/5.002/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 811ms
+rtt min/avg/max/mdev = 6.939/7.533/8.331/0.503 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 608ms
+rtt min/avg/max/mdev = 7.087/8.339/9.510/0.990 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.801/3.801/3.801/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1015ms
+rtt min/avg/max/mdev = 5.097/7.104/8.220/1.086 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 404ms
+rtt min/avg/max/mdev = 7.784/8.061/8.338/0.277 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.442/5.442/5.442/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1218ms
+rtt min/avg/max/mdev = 5.426/7.038/8.295/0.961 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1213ms
+rtt min/avg/max/mdev = 5.419/7.608/8.396/1.012 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 203ms
+rtt min/avg/max/mdev = 7.323/7.323/7.323/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1422ms
+rtt min/avg/max/mdev = 5.291/7.850/8.864/1.206 ms
+--- insec ping statistics ---
+8 packets transmitted, 5 received, 37.5% packet loss, time 1423ms
+rtt min/avg/max/mdev = 5.627/7.109/8.129/0.911 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.150/5.150/5.150/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1008ms
+rtt min/avg/max/mdev = 6.102/7.850/9.585/1.111 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 404ms
+rtt min/avg/max/mdev = 6.975/7.629/8.284/0.654 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.436/5.436/5.436/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1009ms
+rtt min/avg/max/mdev = 5.884/7.143/8.083/0.709 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1007ms
+rtt min/avg/max/mdev = 5.630/7.503/8.212/0.953 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.780/5.780/5.780/0.000 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 406ms
+rtt min/avg/max/mdev = 6.072/7.096/8.121/1.024 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 405ms
+rtt min/avg/max/mdev = 4.829/7.307/8.698/1.757 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 204ms
+rtt min/avg/max/mdev = 8.360/8.360/8.360/0.000 ms
+--- insec ping statistics ---
+8 packets transmitted, 6 received, 25% packet loss, time 1420ms
+rtt min/avg/max/mdev = 5.897/7.166/8.961/1.028 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 607ms
+rtt min/avg/max/mdev = 4.085/6.648/8.572/1.886 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 4.345/4.345/4.345/0.000 ms
+--- insec ping statistics ---
+10 packets transmitted, 5 received, 50% packet loss, time 2047ms
+rtt min/avg/max/mdev = 7.037/8.061/8.731/0.601 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1225ms
+rtt min/avg/max/mdev = 4.663/6.688/7.562/1.049 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.258/6.497/8.736/2.239 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1015ms
+rtt min/avg/max/mdev = 5.760/7.727/9.001/1.164 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1214ms
+rtt min/avg/max/mdev = 5.330/7.264/8.799/1.111 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.409/3.409/3.409/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 4 received, 42.8571% packet loss, time 1224ms
+rtt min/avg/max/mdev = 5.202/6.798/8.270/1.087 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 403ms
+rtt min/avg/max/mdev = 6.312/8.091/9.259/1.278 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.755/7.245/8.736/1.490 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1210ms
+rtt min/avg/max/mdev = 5.022/7.381/9.857/1.667 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1006ms
+rtt min/avg/max/mdev = 6.019/7.425/8.896/1.091 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 203ms
+rtt min/avg/max/mdev = 5.784/7.021/8.259/1.237 ms
+--- insec ping statistics ---
+9 packets transmitted, 7 received, 22.2222% packet loss, time 1615ms
+rtt min/avg/max/mdev = 4.929/6.753/9.260/1.440 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 1014ms
+rtt min/avg/max/mdev = 4.050/7.233/9.887/2.090 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 6.215/6.215/6.215/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 608ms
+rtt min/avg/max/mdev = 5.877/6.878/8.419/1.105 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1009ms
+rtt min/avg/max/mdev = 4.293/7.349/10.454/2.072 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 203ms
+rtt min/avg/max/mdev = 5.555/5.625/5.695/0.070 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 805ms
+rtt min/avg/max/mdev = 5.559/7.156/8.306/1.179 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1212ms
+rtt min/avg/max/mdev = 5.328/7.510/8.709/1.127 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 6.108/6.108/6.108/0.000 ms
+--- insec ping statistics ---
+8 packets transmitted, 6 received, 25% packet loss, time 1833ms
+rtt min/avg/max/mdev = 4.165/7.580/10.643/1.968 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1014ms
+rtt min/avg/max/mdev = 4.303/6.495/7.516/1.151 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.315/5.304/6.293/0.989 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1012ms
+rtt min/avg/max/mdev = 6.600/7.039/7.700/0.385 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1006ms
+rtt min/avg/max/mdev = 6.015/7.484/8.350/0.883 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 208ms
+rtt min/avg/max/mdev = 8.778/8.778/8.778/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 605ms
+rtt min/avg/max/mdev = 4.133/6.913/9.330/1.849 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1010ms
+rtt min/avg/max/mdev = 6.763/7.473/7.839/0.399 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 205ms
+rtt min/avg/max/mdev = 6.002/6.002/6.002/0.000 ms
+--- insec ping statistics ---
+8 packets transmitted, 7 received, 12.5% packet loss, time 1409ms
+rtt min/avg/max/mdev = 5.049/7.145/8.358/0.998 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 815ms
+rtt min/avg/max/mdev = 4.029/5.807/6.843/1.263 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.345/4.345/4.345/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1020ms
+rtt min/avg/max/mdev = 3.547/6.563/8.363/1.809 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 811ms
+rtt min/avg/max/mdev = 3.670/6.303/8.988/1.880 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.042/5.042/5.042/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1015ms
+rtt min/avg/max/mdev = 7.319/7.824/8.439/0.380 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 410ms
+rtt min/avg/max/mdev = 8.279/8.386/8.494/0.107 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.177/5.177/5.177/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1214ms
+rtt min/avg/max/mdev = 5.508/7.617/8.587/1.023 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1217ms
+rtt min/avg/max/mdev = 5.282/7.076/8.478/1.042 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.896/5.896/5.896/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1420ms
+rtt min/avg/max/mdev = 5.944/7.456/8.873/1.008 ms
+--- insec ping statistics ---
+9 packets transmitted, 6 received, 33.3333% packet loss, time 1836ms
+rtt min/avg/max/mdev = 5.580/7.946/9.140/1.222 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 7.975/7.975/7.975/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1215ms
+rtt min/avg/max/mdev = 4.558/7.262/8.626/1.444 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 404ms
+rtt min/avg/max/mdev = 5.342/6.738/7.541/0.990 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.936/5.936/5.936/0.000 ms
+--- insec ping statistics ---
+9 packets transmitted, 5 received, 44.4444% packet loss, time 1843ms
+rtt min/avg/max/mdev = 5.998/7.440/8.695/0.978 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 809ms
+rtt min/avg/max/mdev = 3.641/5.536/6.519/1.147 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 3.482/4.848/6.214/1.366 ms
+--- insec ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 605ms
+rtt min/avg/max/mdev = 4.173/5.782/6.931/1.023 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 812ms
+rtt min/avg/max/mdev = 3.988/5.836/6.889/1.104 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.709/3.709/3.709/0.000 ms
+--- insec ping statistics ---
+11 packets transmitted, 7 received, 36.3636% packet loss, time 2454ms
+rtt min/avg/max/mdev = 3.718/7.081/12.267/2.615 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1014ms
+rtt min/avg/max/mdev = 3.254/5.862/7.103/1.339 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.002/5.373/6.744/1.371 ms
+--- insec ping statistics ---
+9 packets transmitted, 7 received, 22.2222% packet loss, time 1833ms
+rtt min/avg/max/mdev = 5.010/6.254/6.875/0.578 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1216ms
+rtt min/avg/max/mdev = 3.455/5.931/8.589/1.728 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 201ms
+rtt min/avg/max/mdev = 4.144/4.717/5.290/0.573 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 604ms
+rtt min/avg/max/mdev = 5.877/6.133/6.466/0.246 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1218ms
+rtt min/avg/max/mdev = 3.745/5.975/7.761/1.401 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.403/3.403/3.403/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 817ms
+rtt min/avg/max/mdev = 5.632/7.366/8.500/1.245 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 609ms
+rtt min/avg/max/mdev = 5.762/7.363/8.934/1.295 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.138/6.133/8.129/1.995 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1222ms
+rtt min/avg/max/mdev = 7.256/8.006/9.397/0.792 ms
+--- insec ping statistics ---
+10 packets transmitted, 7 received, 30% packet loss, time 2031ms
+rtt min/avg/max/mdev = 4.744/7.376/9.677/1.651 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.508/4.508/4.508/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 807ms
+rtt min/avg/max/mdev = 4.766/6.853/8.665/1.385 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 1016ms
+rtt min/avg/max/mdev = 5.989/6.944/8.284/0.931 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 5.008/5.008/5.008/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1013ms
+rtt min/avg/max/mdev = 4.668/7.477/8.708/1.431 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 809ms
+rtt min/avg/max/mdev = 2.897/6.358/8.202/2.133 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.185/4.185/4.185/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 808ms
+rtt min/avg/max/mdev = 4.697/6.966/9.352/1.647 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1015ms
+rtt min/avg/max/mdev = 5.300/7.068/8.680/1.255 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 7.156/7.156/7.156/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 604ms
+rtt min/avg/max/mdev = 3.535/5.260/6.872/1.181 ms
+--- insec ping statistics ---
+10 packets transmitted, 6 received, 40% packet loss, time 2249ms
+rtt min/avg/max/mdev = 3.490/5.900/8.839/1.801 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.437/3.437/3.437/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 610ms
+rtt min/avg/max/mdev = 3.275/5.558/6.736/1.614 ms
+--- insec ping statistics ---
+9 packets transmitted, 7 received, 22.2222% packet loss, time 1828ms
+rtt min/avg/max/mdev = 3.598/5.947/7.479/1.271 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 6.139/6.139/6.139/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1428ms
+rtt min/avg/max/mdev = 3.644/5.571/6.718/1.108 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1221ms
+rtt min/avg/max/mdev = 3.339/5.195/6.274/1.058 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.996/3.996/3.996/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1011ms
+rtt min/avg/max/mdev = 3.838/5.326/6.971/1.095 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 809ms
+rtt min/avg/max/mdev = 3.558/5.863/7.908/1.623 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 3.624/4.317/5.011/0.693 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 812ms
+rtt min/avg/max/mdev = 5.072/5.822/7.242/1.004 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 607ms
+rtt min/avg/max/mdev = 3.521/5.352/6.746/1.352 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.472/3.472/3.472/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1011ms
+rtt min/avg/max/mdev = 5.932/7.699/8.523/0.976 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1218ms
+rtt min/avg/max/mdev = 5.905/7.167/9.434/1.303 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.288/4.288/4.288/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 810ms
+rtt min/avg/max/mdev = 5.452/7.039/8.234/1.186 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 610ms
+rtt min/avg/max/mdev = 7.100/7.779/8.529/0.585 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.617/6.173/6.730/0.556 ms
+--- insec ping statistics ---
+11 packets transmitted, 7 received, 36.3636% packet loss, time 2444ms
+rtt min/avg/max/mdev = 6.084/7.710/8.878/1.040 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1212ms
+rtt min/avg/max/mdev = 5.917/7.881/9.022/1.018 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 205ms
+rtt min/avg/max/mdev = 7.907/7.907/7.907/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1216ms
+rtt min/avg/max/mdev = 5.632/7.642/8.591/1.113 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1015ms
+rtt min/avg/max/mdev = 4.890/7.448/9.651/1.598 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.479/6.365/8.251/1.886 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 809ms
+rtt min/avg/max/mdev = 5.304/7.606/8.668/1.364 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1011ms
+rtt min/avg/max/mdev = 4.850/7.720/8.571/1.436 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.831/5.831/5.831/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 607ms
+rtt min/avg/max/mdev = 5.468/7.440/9.421/1.613 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1015ms
+rtt min/avg/max/mdev = 6.063/7.538/9.473/1.242 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.383/5.383/5.383/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1427ms
+rtt min/avg/max/mdev = 5.124/7.298/9.116/1.329 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1021ms
+rtt min/avg/max/mdev = 7.061/7.987/9.227/0.923 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 203ms
+rtt min/avg/max/mdev = 4.570/4.570/4.570/0.000 ms
+--- insec ping statistics ---
+11 packets transmitted, 7 received, 36.3636% packet loss, time 2243ms
+rtt min/avg/max/mdev = 5.711/7.550/8.579/0.926 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1216ms
+rtt min/avg/max/mdev = 5.753/7.580/8.685/1.024 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 6.237/6.237/6.237/0.000 ms
+--- insec ping statistics ---
+8 packets transmitted, 6 received, 25% packet loss, time 1414ms
+rtt min/avg/max/mdev = 4.038/7.178/8.894/1.798 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 804ms
+rtt min/avg/max/mdev = 5.139/6.859/7.661/1.010 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.616/4.616/4.616/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1018ms
+rtt min/avg/max/mdev = 5.439/7.401/9.033/1.367 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 811ms
+rtt min/avg/max/mdev = 4.728/6.589/8.240/1.294 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.980/3.980/3.980/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1633ms
+rtt min/avg/max/mdev = 3.312/5.820/7.933/1.523 ms
+--- insec ping statistics ---
+4 packets transmitted, 2 received, 50% packet loss, time 613ms
+rtt min/avg/max/mdev = 6.116/6.155/6.195/0.039 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.288/4.860/5.433/0.572 ms
+--- insec ping statistics ---
+11 packets transmitted, 7 received, 36.3636% packet loss, time 2036ms
+rtt min/avg/max/mdev = 5.809/6.635/7.759/0.577 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 612ms
+rtt min/avg/max/mdev = 5.975/6.691/7.567/0.659 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 204ms
+rtt min/avg/max/mdev = 4.702/5.774/6.846/1.072 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1014ms
+rtt min/avg/max/mdev = 5.920/6.340/7.085/0.405 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 610ms
+rtt min/avg/max/mdev = 6.274/6.368/6.456/0.074 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.993/3.993/3.993/0.000 ms
+--- insec ping statistics ---
+11 packets transmitted, 7 received, 36.3636% packet loss, time 2241ms
+rtt min/avg/max/mdev = 4.121/6.241/8.381/1.161 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1012ms
+rtt min/avg/max/mdev = 3.355/5.295/7.246/1.646 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 203ms
+rtt min/avg/max/mdev = 3.619/3.619/3.619/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1224ms
+rtt min/avg/max/mdev = 6.160/7.098/8.063/0.676 ms
+--- insec ping statistics ---
+9 packets transmitted, 7 received, 22.2222% packet loss, time 1827ms
+rtt min/avg/max/mdev = 6.900/8.092/9.622/0.869 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.346/4.346/4.346/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 807ms
+rtt min/avg/max/mdev = 4.558/7.466/9.527/1.807 ms
+--- insec ping statistics ---
+8 packets transmitted, 6 received, 25% packet loss, time 1627ms
+rtt min/avg/max/mdev = 5.070/7.134/8.231/1.069 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.740/4.740/4.740/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 608ms
+rtt min/avg/max/mdev = 7.872/8.857/9.778/0.779 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 807ms
+rtt min/avg/max/mdev = 5.413/7.584/8.578/1.273 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.855/4.855/4.855/0.000 ms
+--- insec ping statistics ---
+11 packets transmitted, 7 received, 36.3636% packet loss, time 2241ms
+rtt min/avg/max/mdev = 4.852/7.746/9.000/1.343 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1016ms
+rtt min/avg/max/mdev = 4.643/6.857/8.834/1.335 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 5.739/5.739/5.739/0.000 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 611ms
+rtt min/avg/max/mdev = 4.268/6.902/8.704/1.904 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1009ms
+rtt min/avg/max/mdev = 4.018/7.469/8.630/1.741 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 203ms
+rtt min/avg/max/mdev = 3.761/5.383/7.006/1.622 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 805ms
+rtt min/avg/max/mdev = 4.292/7.377/8.866/1.811 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1015ms
+rtt min/avg/max/mdev = 4.585/7.075/8.307/1.494 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.313/6.925/8.538/1.612 ms
+--- insec ping statistics ---
+9 packets transmitted, 6 received, 33.3333% packet loss, time 1830ms
+rtt min/avg/max/mdev = 7.488/8.009/8.397/0.374 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 403ms
+rtt min/avg/max/mdev = 5.437/7.206/8.635/1.327 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.990/3.990/3.990/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1215ms
+rtt min/avg/max/mdev = 5.845/7.399/8.650/0.897 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1224ms
+rtt min/avg/max/mdev = 5.029/7.548/8.725/1.472 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.755/6.040/7.326/1.285 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 810ms
+rtt min/avg/max/mdev = 6.163/7.592/8.644/0.926 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 1016ms
+rtt min/avg/max/mdev = 5.516/7.253/9.390/1.390 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.293/6.137/6.981/0.844 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 611ms
+rtt min/avg/max/mdev = 5.236/7.341/8.714/1.511 ms
+--- insec ping statistics ---
+8 packets transmitted, 6 received, 25% packet loss, time 1419ms
+rtt min/avg/max/mdev = 4.229/7.690/9.738/1.802 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 201ms
+rtt min/avg/max/mdev = 5.680/5.680/5.680/0.000 ms
+--- insec ping statistics ---
+9 packets transmitted, 6 received, 33.3333% packet loss, time 1835ms
+rtt min/avg/max/mdev = 5.526/7.020/8.236/1.057 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 812ms
+rtt min/avg/max/mdev = 3.784/6.716/8.470/1.758 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.323/4.323/4.323/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1014ms
+rtt min/avg/max/mdev = 7.099/7.703/8.377/0.548 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 1013ms
+rtt min/avg/max/mdev = 5.433/6.510/7.363/0.705 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.146/4.146/4.146/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1215ms
+rtt min/avg/max/mdev = 6.950/7.774/8.443/0.569 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1012ms
+rtt min/avg/max/mdev = 3.940/5.999/7.306/1.227 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.057/4.057/4.057/0.000 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1020ms
+rtt min/avg/max/mdev = 5.631/21.784/65.444/25.226 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 403ms
+rtt min/avg/max/mdev = 7.703/7.964/8.226/0.261 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 4.340/4.340/4.340/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 815ms
+rtt min/avg/max/mdev = 6.998/11.118/18.661/5.341 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1013ms
+rtt min/avg/max/mdev = 4.635/5.889/7.242/0.842 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 5.144/5.561/5.979/0.417 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1016ms
+rtt min/avg/max/mdev = 5.026/6.840/8.256/1.166 ms
+--- insec ping statistics ---
+6 packets transmitted, 4 received, 33.3333% packet loss, time 1017ms
+rtt min/avg/max/mdev = 6.480/6.797/7.156/0.302 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 205ms
+rtt min/avg/max/mdev = 6.799/6.799/6.799/0.000 ms
+--- insec ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 404ms
+rtt min/avg/max/mdev = 3.401/5.535/7.472/1.667 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1012ms
+rtt min/avg/max/mdev = 5.264/6.595/8.150/0.943 ms
+--- insec ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 3.773/3.773/3.773/0.000 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 811ms
+rtt min/avg/max/mdev = 6.577/6.895/7.448/0.349 ms
+--- insec ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 606ms
+rtt min/avg/max/mdev = 4.098/5.857/7.074/1.274 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 3.996/3.996/3.996/0.000 ms
+--- insec ping statistics ---
+10 packets transmitted, 7 received, 30% packet loss, time 2034ms
+rtt min/avg/max/mdev = 4.480/6.591/7.967/1.060 ms
+--- insec ping statistics ---
+3 packets transmitted, 2 received, 33.3333% packet loss, time 402ms
+rtt min/avg/max/mdev = 6.212/6.542/6.873/0.330 ms
+--- insec ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 203ms
+rtt min/avg/max/mdev = 5.608/6.362/7.116/0.754 ms
+--- insec ping statistics ---
+7 packets transmitted, 5 received, 28.5714% packet loss, time 1221ms
+rtt min/avg/max/mdev = 3.657/6.456/8.016/1.626 ms
+--- insec ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 807ms
+rtt min/avg/max/mdev = 5.117/7.077/8.267/1.259 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.636/5.629/6.622/0.993 ms
+--- insec ping statistics ---
+5 packets transmitted, 3 received, 40% packet loss, time 816ms
+rtt min/avg/max/mdev = 6.163/7.569/8.615/1.032 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1008ms
+rtt min/avg/max/mdev = 4.492/6.538/7.452/1.060 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 202ms
+rtt min/avg/max/mdev = 4.242/4.242/4.242/0.000 ms
+--- insec ping statistics ---
+11 packets transmitted, 8 received, 27.2727% packet loss, time 2231ms
+rtt min/avg/max/mdev = 5.117/7.188/9.132/1.026 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1012ms
+rtt min/avg/max/mdev = 4.181/5.992/7.514/1.165 ms
+--- insec ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 204ms
+rtt min/avg/max/mdev = 6.970/6.970/6.970/0.000 ms
+--- insec ping statistics ---
+7 packets transmitted, 6 received, 14.2857% packet loss, time 1213ms
+rtt min/avg/max/mdev = 4.072/6.747/8.359/1.358 ms
+--- insec ping statistics ---
+6 packets transmitted, 5 received, 16.6667% packet loss, time 1217ms
+rtt min/avg/max/mdev = 5.366/7.119/8.937/1.209 ms
+--- insec ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 203ms
+rtt min/avg/max/mdev = 4.771/5.906/7.041/1.135 ms
+Consistent Rate : [99 / 100]
