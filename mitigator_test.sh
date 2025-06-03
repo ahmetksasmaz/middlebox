@@ -49,11 +49,16 @@ cmp_insec_result(){
 
 send_0_n_times() {
     for i in $(seq 1 $REPEAT); do
+
+        echo "Iteration $i of $REPEAT"
+
         start_insec
         send_0_bit
         send_eof
         stop_insec
         cmp_insec_result "0"
+
+        echo "Consistent Rate : [$CONSISTENT_COUNT / $REPEAT]"
     done
 
     echo "Consistent Rate : [$CONSISTENT_COUNT / $REPEAT]" >> $EXPERIMENT_FILE
@@ -62,11 +67,16 @@ send_0_n_times() {
 # Scenario Number 2 : Sending bit-1 N times
 send_1_n_times() {
     for i in $(seq 1 $REPEAT); do
+
+        echo "Iteration $i of $REPEAT"
+
         start_insec
         send_1_bit
         send_eof
         stop_insec
         cmp_insec_result "1"
+
+        echo "Consistent Rate : [$CONSISTENT_COUNT / $REPEAT]"
     done
 
     echo "Consistent Rate : [$CONSISTENT_COUNT / $REPEAT]" >> $EXPERIMENT_FILE
@@ -75,6 +85,9 @@ send_1_n_times() {
 # Scenario Number 3 : Sending k bits N times
 send_k_n_times() {
     for i in $(seq 1 $REPEAT); do
+
+        echo "Iteration $i of $REPEAT"
+
         RANDOM_BINARY_STRING=$(head /dev/urandom | LC_ALL=C tr -dc '01' | head -c $K_BITS)
 
         start_insec
@@ -90,6 +103,8 @@ send_k_n_times() {
         send_eof
         stop_insec
         cmp_insec_result $RANDOM_BINARY_STRING
+        
+        echo "Consistent Rate : [$CONSISTENT_COUNT / $REPEAT]"
     done
 
     echo "Consistent Rate : [$CONSISTENT_COUNT / $REPEAT]" >> $EXPERIMENT_FILE
